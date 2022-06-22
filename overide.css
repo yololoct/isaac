@@ -1,0 +1,26 @@
+ /* .btn{
+    size: 30px;
+    background-color: red;
+} */
+
+/* .btn:hover{
+    background-color: aqua;
+}  */
+
+.div1{
+    display:flex;
+    justify-content: space-around;
+}
+
+img{
+    height: 175px;
+    width: 100px;
+}
+
+.funny{
+    border: 5px solid black;
+}
+
+.margin1{
+    margin-bottom: 15px;
+}
